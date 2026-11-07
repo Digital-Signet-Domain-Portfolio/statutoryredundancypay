@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Cloudflare AI Content Signals (https://signals.cloudflare.com/)
+# We welcome traditional search indexing, real-time RAG retrieval, and AI training
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+# Sitemap location
+Sitemap: https://statutoryredundancypay.co.uk/sitemap.xml
